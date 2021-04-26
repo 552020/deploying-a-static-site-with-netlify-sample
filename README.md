@@ -1,5 +1,7 @@
 ### Content
 
+[Online](https://sleepy-wozniak-1520e9.netlify.app/)
+
 Forking-variation on an unity of Codecademy: [Deploying a Static Site with Netlify](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-react-part-ii/modules/fscp-deploy-a-react-application-with-netlify/articles/deploying-a-static-site-with-netlify)
 
 ### Languages
