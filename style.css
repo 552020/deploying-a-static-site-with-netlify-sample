@@ -4,10 +4,13 @@ body {
   width: 100vw;
   height: 100vh;
   font-family: "Syne Mono", monospace;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 2rem;
   background-color: #7236ff;
   display: flex;
   align-items: center;
   justify-content: center;
+  color: black;
 }
 
 .container {
@@ -33,6 +36,8 @@ body {
 .button:hover {
   border: 5px solid black;
   cursor: pointer;
+  background-color: red;
+  font-size: 5rem;
 }
 
 .button:active {
